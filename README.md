@@ -1,5 +1,7 @@
 # spring-session-redis
 
+[![Join the chat at https://gitter.im/arpitaggarwal/spring-session-redis](https://badges.gitter.im/arpitaggarwal/spring-session-redis.svg)](https://gitter.im/arpitaggarwal/spring-session-redis?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Redis Installation
 
 ```
